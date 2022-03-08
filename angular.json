@@ -113,7 +113,7 @@
             "ssr": false,
             "browserTarget": "portfolio:build:production",
             "firebaseProject": "portfolio-86451",
-            "firebaseHostingSite": "bryanportieles"
+            "firebaseHostingSite": "portfolio-86451.web.app"
           }
         }
       }
